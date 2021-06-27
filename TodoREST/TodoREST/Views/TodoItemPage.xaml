@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoREST.Views.TodoItemPage">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Label Text="ID"/>
+            <Entry Text="{Binding Path=id}" Placeholder="Enter fullname"/>
+            <Label Text="FullName"/>
+            <Entry Text="{Binding Path=fullname}" Placeholder="Enter fullname"/>
+            <Label Text="Age"/>
+            <Entry Text="{Binding Path=age}" Placeholder="Enter age"/>
+            <Label Text="Student code"/>
+            <Entry Text="{Binding Path=student_code}" Placeholder="Enter student code"/>
+            <Label Text="Date birth"/>
+            <DatePicker x:Name="Date" Format="D" Date="{Binding date_birth}" HorizontalOptions="StartAndExpand" />
+            <Button Text="Save" Clicked="OnSaveButtonClicked"/>
+            <Button Text="Delete" Clicked="OnDeleteButtonClicked"/>
+            <Button Text="Cancel" Clicked="OnCancelButtonClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

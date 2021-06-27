@@ -1,0 +1,16 @@
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.deps.json
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.dll
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\ref\TodoREST.dll
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.pdb
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csprojAssemblyReference.cache
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfoInputs.cache
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfo.cs
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csproj.CoreCompileInputs.cache
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.dll
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\ref\TodoREST.dll
+E:\Users\rpame\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.pdb
